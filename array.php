@@ -7,21 +7,21 @@
 <?php
 // Buat array dengan index nama dan umur
 $data = array(
+    array("nama" => "Zahra", "umur" => 19),
     array("nama" => "Zihan", "umur" => 19),
-    array("nama" => "Triaa", "umur" => 19),
-    array("nama" => "Akma", "umur" =>19),
-    array("nama" => "Zahro", "umur" => 19),
-    array("nama" => "Mige", "umur" => 18),
-    array("nama" => "Alya", "umur" => 19),
-    array("nama" => "Amin", "umur" => 19),
-    array("nama" => "Irsyad", "umur" => 19),
-    array("nama" => "Amrizal", "umur" => 19),
-    array("nama" => "Alfin", "umur" => 19),
-    array("nama" => "Vava", "umur" => 19),
-    array("nama" => "Amro", "umur" => 21),
-    array("nama" => "Fahrul", "umur" => 19),
-    array("nama" => "Titta", "umur" => 19),
-    array("nama" => "Hesti", "umur" => 19)
+    array("nama" => "Ergi", "umur" =>19),
+    array("nama" => "Ajeng", "umur" => 19),
+    array("nama" => "Elin", "umur" => 18),
+    array("nama" => "Wahyu", "umur" => 19),
+    array("nama" => "Cahya", "umur" => 19),
+    array("nama" => "Zenila", "umur" => 19),
+    array("nama" => "Wilu", "umur" => 19),
+    array("nama" => "Akma", "umur" => 19),
+    array("nama" => "Oliv", "umur" => 19),
+    array("nama" => "Amel", "umur" => 21),
+    array("nama" => "Mig", "umur" => 19),
+    array("nama" => "Rahayu", "umur" => 19),
+    array("nama" => "Prata", "umur" => 19)
 );
 
 // Konversi array menjadi format JSON

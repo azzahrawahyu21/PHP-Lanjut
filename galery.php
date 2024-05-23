@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Gallery</title>
     <meta name="description" content="Belajar PHP">
-    <meta name="keywords" content="233307030">
-    <meta name="author" content="Zihan Cahya Amelia">
+    <meta name="keywords" content="233307006">
+    <meta name="author" content="Azzahra Wahyu Olivia">
     <style>
         body {
             font-family: Arial, sans-serif;
